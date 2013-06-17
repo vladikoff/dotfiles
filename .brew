@@ -38,7 +38,7 @@ brew install ack
 brew install git
 #brew install imagemagick
 brew install lynx
-brew install node
+#brew install node
 brew install pigz
 brew install rename
 brew install rhino
